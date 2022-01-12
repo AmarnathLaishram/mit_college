@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mit_college/static/css/main.502d0a39.css",
+    "main.js": "/mit_college/static/js/main.a5ef847f.js",
+    "static/js/787.ae07aaf3.chunk.js": "/mit_college/static/js/787.ae07aaf3.chunk.js",
+    "index.html": "/mit_college/index.html",
+    "main.502d0a39.css.map": "/mit_college/static/css/main.502d0a39.css.map",
+    "main.a5ef847f.js.map": "/mit_college/static/js/main.a5ef847f.js.map",
+    "787.ae07aaf3.chunk.js.map": "/mit_college/static/js/787.ae07aaf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502d0a39.css",
+    "static/js/main.a5ef847f.js"
+  ]
+}
